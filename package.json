@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:balajipachai/web3-infura.git"
-  },
   "keywords": [
     "Infura",
     "Web3",
@@ -18,7 +14,7 @@
     "Metamask",
     "React"
   ],
-  "author": "Balaji Shetty Pachai",
+  "author": "Balaji Shetty Pachai <balaji.pachai08@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@openzeppelin/network": "^0.4.2"
